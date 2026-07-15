@@ -1,6 +1,6 @@
 # 🧮 Calculadora Desktop (VB.NET)
 
-Uma calculadora de interface gráfica clássica desenvolvida em **Visual Basic .NET**. O projeto implementa as quatro operações matemáticas básicas utilizando um fluxo lógico baseado em variáveis de controle para estruturar os números inseridos antes de calcular o resultado final.
+Uma calculadora de interface gráfica clássica desenvolvida em **Visual Basic .NET** para a matéria de Desenvolvimento de Sistemas do meu curso técnico. O projeto implementa as quatro operações matemáticas básicas utilizando um fluxo lógico baseado em variáveis de controle para estruturar os números inseridos antes de calcular o resultado final.
 
 ## 🛠️ Tecnologias e Recursos Utilizados
 
